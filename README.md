@@ -52,6 +52,16 @@
 
 ---
 
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Jiane-EJ/Jiane-EJ/output/github-contribution-grid-snake-dots.svg" alt="snake" width="100%">
+
+</div>
+
+---
+
 ## 🚀 What I'm Building
 
 <table>
