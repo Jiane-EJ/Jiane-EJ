@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Jiane
 
-**支付金融科技工程师 · AI Agent 实践者 · Obsidian 第二大脑构建者**
+**金融科技工程师 · AI Agent 实践者 · Obsidian 第二大脑构建者**
 
-`Jiane-EJ` on GitHub ·深耕 Java 后端，把 AI 能力落地到支付与金融业务
+`Jiane-EJ` on GitHub ·深耕 Java 后端，把 AI 能力落地到金融业务
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 🔭 现在在做什么
 
-- 🔧 **富友支付** — 支付业务后端 + AI 大模型能力落地（Java / Spring Boot）
+- 🔧 **Java 后端工程师** — 金融科技领域 AI 大模型能力落地（Spring Boot）
 - 🧠 **OrbitOS** — 自建基于 Obsidian 的个人知识管理与每日规划系统（就是这个仓库！）
 - 🤖 **AI Agent 工具链** — Claude Code / Skills / Superpowers / 多 Agent 协作编排
 - 📈 **量化交易** — 多 Agent 炒股框架 + A股/港股/美股多源数据
