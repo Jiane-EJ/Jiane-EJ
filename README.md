@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Jiane
 
-**金融科技工程师 · AI Agent 实践者 · Obsidian 第二大脑构建者**
+**金融科技工程师 · AI Agent 实践者 · 全栈工程师**
 
 `Jiane-EJ` on GitHub ·深耕 Java 后端，把 AI 能力落地到金融业务
 
