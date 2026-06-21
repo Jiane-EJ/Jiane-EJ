@@ -13,7 +13,6 @@
 ## 🔭 现在在做什么
 
 - 🔧 **Java 后端工程师** — 金融科技领域 AI 大模型能力落地（Spring Boot）
-- 🧠 **OrbitOS** — 自建基于 Obsidian 的个人知识管理与每日规划系统（就是这个仓库！）
 - 🤖 **AI Agent 工具链** — Claude Code / Skills / Superpowers / 多 Agent 协作编排
 - 📈 **量化交易** — 多 Agent 炒股框架 + A股/港股/美股多源数据
 
@@ -51,7 +50,6 @@
 
 ## 🌱 自建项目精选
 
-- 📒 **[OrbitOS](https://github.com/Jiane-EJ/OrbitOS-vault)** — Obsidian 知识库 + 每日规划器，AI 驱动的第二大脑
 - 🧪 **AI 自动化测试系列** — AI + MCP 协议自动测界面/功能
 - 🏠 **家庭项目** — 记录生活与孩子成长
 
