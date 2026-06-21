@@ -56,6 +56,10 @@
 
 <div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jiane-EJ&theme=react-dark&hide_border=true&bg_color=0D1117&color=C9D1D9&line=6366F1&point=A78BFA&area=true&area_color=8B5CF6&custom_title=Contribution%20Activity%20Graph" alt="activity" width="100%">
+
+<br>
+
 <img src="https://raw.githubusercontent.com/Jiane-EJ/Jiane-EJ/output/github-contribution-grid-snake-dots.svg" alt="snake" width="100%">
 
 </div>
